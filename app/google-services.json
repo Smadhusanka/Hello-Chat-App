@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270004931408",
+    "project_id": "hellochatapptwo",
+    "storage_bucket": "hellochatapptwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270004931408:android:329ad9aa0e7bc793d07a55",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRsITKihZfdAq9EoxdigP6ThnNIuA2o-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
